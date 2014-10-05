@@ -1,0 +1,8 @@
+# Needleman and Wunsch algorithm
+Proof of concept : Needleman and Wunsch algorithm by recursive dictionnary strategy.
+
+Always fun to code !
+
+
+
+
